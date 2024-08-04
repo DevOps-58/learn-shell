@@ -1,1 +1,2 @@
 Learning DevOps
+git clone
