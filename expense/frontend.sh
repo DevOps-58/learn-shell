@@ -7,6 +7,6 @@ cd /usr/share/nginx/html
 unzip /tmp/frontend.zip
 pwd
 ls -ltr
-systemctl restart nginx 
-systemctl status nginx 
+systemctl restart nginx
+
 echo "** Frontend Installation Is Completed **"
