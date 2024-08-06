@@ -7,5 +7,5 @@ DEPARTMENT=$2
 
 echo " Today's date is $DATE "
 
-echo "Scripted Executed by $1"
-echo "$EXEC is from $DEPARTMENT"
+echo "Script Executed by $EXEC and from $DEPARTMENT"
+ 
