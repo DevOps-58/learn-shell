@@ -9,3 +9,7 @@
 for var in a b c d ; do 
     echo "Value is $var" 
 done 
+
+for num in 12 2 6 ; do
+    echo "Value is $num"
+done
