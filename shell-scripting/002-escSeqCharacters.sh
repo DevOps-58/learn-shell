@@ -8,4 +8,3 @@ echo -e "Apple\tMango\tKiwi"
 
 
 
-
