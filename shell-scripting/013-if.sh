@@ -14,4 +14,5 @@ if [ "$ACTION" = "start" ] ; then
    exit 0
 else
    echo -e "\e[31m start is valid option \e[0m"
+   exit 3
 fi
