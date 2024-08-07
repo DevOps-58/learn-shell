@@ -3,7 +3,7 @@
 # How to declare a function
 
 stat() {
-    echo "Today's date is $(date +%f)"
+    echo "Today's date is $(date +%F)"
     echo "load average on the system is $(uptime)"
     echo "Run level of the system is $(runlevel)"
 }
