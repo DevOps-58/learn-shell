@@ -2,7 +2,7 @@
 
 #while Exression ;
 #    commands to execute
-#done
+#donecd
 
 while true ; do
     echo -e "\t \n While Loop Example"
